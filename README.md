@@ -71,4 +71,7 @@ Ml_Lab/week9/week9.jpeg
    ```bash
    git clone https://github.com/mraddekarimani/ML-LAB.git
    cd ML-LAB
-2.jupyter notebook
+2. **Run**
+   ```bash
+   jupyter notebook
+
