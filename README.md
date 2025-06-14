@@ -3,10 +3,10 @@
 A collection of hands-on experiments and assignments designed to reinforce core concepts in machine learning. This repo covers the full ML pipeline—from data preprocessing to model training and evaluation—structured week-wise for an academic lab setting.
 
 ---
+- **Lab Name**: Machine Learning 
 
 ## 🧾 Student Details
 
-- **Lab Name**: Machine Learning 
 - **Name**: Addekari Manikanta 
 - **ID**: B200034 
 - **CSE**: C2 
