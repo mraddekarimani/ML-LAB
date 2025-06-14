@@ -18,40 +18,81 @@ organized week-wise for academic learning.
 
 ## 📁 Folder Structure
 
-Ml_Lab/week1/datawrangling.ipynb  
-Ml_Lab/week1/transactions.csv  
-Ml_Lab/week1/lab 1 machine learning.pdf  
+Ml_Lab/
+├── week1 # Data Wrangling
+│ ├── datawrangling.ipynb
+│ ├── transactions.csv
+│ └── lab 1 machine learning.pdf
+│
+├── week2 # Data Preprocessing and Visualization
+│ ├── datapreprocessing.ipynb
+│ ├── Car_sales.csv
+│ └── Ml lab 2.0.pdf
+│
+├── week3 # Simple Linear Regression
+│ ├── simple_linear_regression.ipynb
+│ ├── tvmarketing.csv
+│ └── ML Lab3 Regression.pdf
+│
+├── week4 # Multiple Linear Regression
+│ ├── MultipleLinearRegression .ipynb
+│ └── Housing.csv
+│
+├── week5 # Decision Trees
+│ ├── Decision Tree.ipynb
+│ └── train.csv
+│
+├── week6 # K-Nearest Neighbors
+│ └── * (Files not provided)
+│
+├── week7 # Naive Bayes
+│ ├── knn.ipynb
+│ ├── Week7_train.csv
+│ └── week7.jpeg
+│
+├── week8 # Support Vector Machines
+│ ├── navie_bayes.ipynb
+│ ├── nlp_train.csv
+│ ├── nlp_test.csv
+│ └── week8.jpeg
+│
+├── week9 # K-Means Clustering
+│ ├── svm.ipynb
+│ ├── Iris.csv
+│ └── week9.jpeg
 
-Ml_Lab/week2/datapreprocessing.ipynb  
-Ml_Lab/week2/Car_sales.csv  
-Ml_Lab/week2/Ml lab 2.0.pdf  
+yaml
+Copy
+Edit
 
-Ml_Lab/week3/simple_linear_regression.ipynb  
-Ml_Lab/week3/tvmarketing.csv  
-Ml_Lab/week3/ML Lab3 Regression.pdf  
-
-Ml_Lab/week4/MultipleLinearRegression .ipynb  
-Ml_Lab/week4/Housing.csv  
-
-Ml_Lab/week5/Decision Tree.ipynb  
-Ml_Lab/week5/train.csv  
-
-Ml_Lab/week6/* (Files not provided)  
-
-Ml_Lab/week7/knn.ipynb  
-Ml_Lab/week7/Week7_train.csv  
-Ml_Lab/week7/week7.jpeg  
-
-Ml_Lab/week8/navie_bayes.ipynb  
-Ml_Lab/week8/nlp_train.csv  
-Ml_Lab/week8/nlp_test.csv  
-Ml_Lab/week8/week8.jpeg  
-
-Ml_Lab/week9/svm.ipynb  
-Ml_Lab/week9/Iris.csv  
-Ml_Lab/week9/week9.jpeg  
+Each folder contains a Jupyter notebook and relevant datasets or images required to complete the week's lab.
 
 ---
+
+## 🔧 Technologies Used
+
+- Python  
+- Jupyter Notebook  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+
+---
+
+## ✅ How to Run
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/mraddekarimani/ML-LAB.git
+   cd ML-LAB
+Launch Jupyter Notebook
+
+bash
+Copy
+Edit
+jupyter notebook
 
 ## 🔧 Technologies Used
 
